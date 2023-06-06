@@ -1,4 +1,4 @@
-# notesBoardB
+# notesBoardKinda
 Simple notes app
 Deployed at [Netlify](https://notesboardkinda.netlify.app/).
 I made this to keep track of my weekly changing routines from my computer because it is way faster than using thumbs on my phone lol
